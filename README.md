@@ -7,3 +7,5 @@ docker run -d -p 8000:5000 python-docker-daint
 docker run -d python-docker-daint
 
 docker container logs python-docker-daint
+
+docker rmi python-docker-daint

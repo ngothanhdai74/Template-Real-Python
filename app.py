@@ -1,6 +1,6 @@
-import modules.dataType as DataType
-from modules.dataType import greetingV2
+# import modules.dataType as DataType
+# from modules.dataType import greetingV2
+from modules.dataType import *
 
 
-DataType.greeting("Sudo")
-greetingV2("Sudo")
+greeting("Sudo")

@@ -1,6 +1,6 @@
 # import modules.dataType as DataType
 # from modules.dataType import greetingV2
-from modules.dataType import *
+from modules.introduction.dataType import *
 
 
 greeting("Sudo")

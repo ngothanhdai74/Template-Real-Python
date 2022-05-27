@@ -1,3 +1,3 @@
-import modules.dataType
+import modules.dataType as DataType
 
-modules.dataType.greeting("Sudo")
+DataType.greeting("Sudo")

@@ -1,3 +1,10 @@
+py -m venv .venv
+
+Ctrl+Shift+P => Python: Select Interpreter 
+
+thử 2, 3 lần
+
+---------------------------------------------------------------------
 docker build --tag python-docker-daint .
 
 docker tag python-docker-daint:latest python-docker-daint:v1.0.0
